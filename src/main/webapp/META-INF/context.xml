@@ -8,8 +8,8 @@
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
             <property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://localhost:1433;databaseName=BlogManegementSWP" />
-            <property name="javax.persistence.jdbc.user" value="sa" />
-            <property name="javax.persistence.jdbc.password" value="12345" />
+            <property name="javax.persistence.jdbc.user" value="hoadmse" />
+            <property name="javax.persistence.jdbc.password" value="01" />
             <property name="hibernate.format_sql" value="true" />
             <property name="hibernate.use_sql_comments" value="true" />
         </properties>
